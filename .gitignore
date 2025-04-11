@@ -46,3 +46,7 @@ app.*.map.json
 
 # Personal Reference Material
 /references/
+
+# Alesha's
+
+pubspec.yaml
