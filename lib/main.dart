@@ -34,7 +34,7 @@ class HomePage extends StatefulWidget {
   final String username = 'usernameDefault';
   final List<Map<String, IconData>> pages = [
   {'Contacts': Icons.contact_phone_rounded},
-  {'Docket': Icons.abc},
+  {'Docket': Icons.note},
   {'Projects': Icons.abc},
   {'Notes': Icons.abc},
   {'Events': Icons.event}];
